@@ -1,0 +1,8 @@
+{
+  "name": "nader",
+  "app_id": "b43ab674",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
